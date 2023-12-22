@@ -1,5 +1,5 @@
 # CerdasProject
-Basic Handwritten Digit Recognition Model  
+# Basic Handwritten Digit Recognition Model  
 
 This project involves the creation and training of a handwritten digit recognition model using TensorFlow/Keras. It includes notebooks for model training, testing, and inference on new images.
 
