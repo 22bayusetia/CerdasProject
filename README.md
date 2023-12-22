@@ -35,7 +35,7 @@ To execute the notebooks locally, follow these steps:
      ```
 
 3. **Access Notebooks**:
-   - Open Jupyter Notebook or JupyterLab.
+   - Open Jupyter Notebook or Google Colab or other tools.
    - Navigate to the downloaded/cloned project directory.
    - Launch the desired notebook (e.g., model_training.ipynb, image_inference.ipynb) by clicking on it.
 
